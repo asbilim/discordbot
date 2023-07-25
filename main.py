@@ -63,4 +63,4 @@ bot.add_command(call)
 
 
 if __name__ == '__main__':
-    bot.run(token)
+    bot.run("MTEzMzE2OTkzOTE2MzkwNjEwOA.GI_A6M.ar_PzAPBeFmDhDFr6cYmssfsOok0CnGk5iQVf0")
