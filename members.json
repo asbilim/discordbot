@@ -1,0 +1,239 @@
+[
+    {
+        "id": 1,
+        "name": "Nfor Nde",
+        "position": "Chief (React Native)",
+        "role": "Developers , Team Leader , team_one",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_two,leaders"
+    },
+    {
+        "id": 2,
+        "name": "Bill",
+        "position": "Developer backend",
+        "role": "Administrator, developers, Team Leader, team_one",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_one,administrators"
+    },
+    {
+        "id": 3,
+        "name": "Boris",
+        "position": "Chief (React Native)",
+        "role": "Developers , team_one",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_one,leaders"
+    },
+    {
+        "id": 4,
+        "name": "Djone Perpetue",
+        "position": "Designer",
+        "role": "Design , Learners",
+        "mentee": true,
+        "mentor": "Evina Steve",
+        "team":"designers"
+    },
+    {
+        "id": 5,
+        "name": "Evina Steve",
+        "position": "Graphics Expert",
+        "role": "Designer , Team Leader",
+        "mentee": false,
+        "mentor": "",
+        "team":"designers,leaders"
+    },
+    {
+        "id": 6,
+        "name": "Esumu Dikoume",
+        "position": "SEO Specialist , Learner django",
+        "role": "SEO , team_one , Learners , Developers",
+        "mentee": true,
+        "mentor": "Bill",
+        "team":"team_one,learners,seo"
+    },
+    {
+        "id": 7,
+        "name": "Jordan Mbah",
+        "position": "Developer react-native , nodejs",
+        "role": "Administrator, developers, Team Leader, team_one",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_two,administrator"
+
+    },
+    {
+        "id": 8,
+        "name": "Vincent",
+        "position": "Web Learner",
+        "role": "Developers  , team_one",
+        "mentee": true,
+        "mentor": "Ako Ndek",
+        "team":"team_one,learners"
+    },
+    {
+        "id": 9,
+        "name": "Thierry Gopte",
+        "position": "Backend Learner",
+        "role": "Developers  , team_one",
+        "mentee": true,
+        "mentor": "Bill",
+        "team":"team_one,learners"
+    },
+    {
+        "id": 10,
+        "name": "Prince-Charles",
+        "position": "Developer",
+        "role": "Developers  , team_two ",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_two,designers"
+    },
+    {
+        "id": 11,
+        "name": "Frank Jordan",
+        "position": "Tester,Full stack",
+        "role": "Developers  , team_two",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_two"
+
+    },
+    {
+        "id": 12,
+        "name": "Dan-Tabe Lilian",
+        "position": "Designer , full stack",
+        "role": "Design , Developers , team_two",
+        "mentee": true,
+        "mentor": "Esta Enow for Design , Jordan Mbah for mobile",
+        "team":"team_two,designers,learners"
+    },
+    {
+        "id": 13,
+        "name": "Ako Ndek",
+        "position": "Developer",
+        "role": "Developers , team_one",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_one,leaders"
+    },
+    {
+        "id": 14,
+        "name": "Ekwe Mathias",
+        "position": "Developer",
+        "role": "Developers,team_one",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_one"
+    },
+    {
+        "id": 15,
+        "name": "Munde Stephan",
+        "position": "Chief (Node.js, Laravel)",
+        "role": "Developers  , team_two , team leader",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_two,leaders"
+    },
+    {
+        "id": 16,
+        "name": "Clodia",
+        "position": "Graphics Learner",
+        "role": "Developers  , team_one",
+        "mentee": true,
+        "mentor": "Boris",
+        "team":"team_one,learners"
+
+    },
+    {
+        "id": 17,
+        "name": "Yann Deukam",
+        "position": "Designer",
+        "role": "Designer,Developers, team_one",
+        "mentee": true,
+        "mentor": "Evina Steve",
+        "team":"team_one,learners,designers"
+    },
+    {
+        "id": 18,
+        "name": "Yann Yvan",
+        "position": "Graphics Learner",
+        "role": "Designer ",
+        "mentee": true,
+        "mentor": "Evina Steve",
+        "team":"learners,designers"
+    },
+    {
+        "id": 19,
+        "name": "Ben",
+        "position": "Web Learner",
+        "role": "Developers, team_one",
+        "mentee": true,
+        "mentor": "Ako Ndek",
+        "team":"learners,team_one"
+    },
+    {
+        "id": 20,
+        "name": "Darlia",
+        "position": "Web & Design Learner",
+        "role": "Design , Learners",
+        "mentee": true,
+        "mentor": "Evina Steve",
+        "team":"learners,designers"
+    },
+    {
+        "id": 21,
+        "name": "Tchinda Megan",
+        "position": "Social Media, Communication, Management, Finance",
+        "role": "Administrator",
+        "mentee": false,
+        "mentor": "",
+        "team":"administrators,marketing,finance"
+    },
+    {
+        "id": 22,
+        "name": "Thalita",
+        "position": "Social Media, Communication, Management, Data Science, Analyzing, Finance",
+        "role": "Administrator",
+        "mentee": false,
+        "mentor": "",
+        "team":"administrators,marketing,finance"
+    },
+    {
+        "id": 23,
+        "name": "Cagdas Er",
+        "position": "Social Media, Communication, Management, Domains, SEO, Finance",
+        "role": "Administrator",
+        "mentee": false,
+        "mentor": "",
+        "team":"administrators,marketing,finance,seo"
+    },
+    {
+        "id": 24,
+        "name": "Esta Enow",
+        "position": "Full stack junior , Designer intermediate",
+        "role": "Force team,team_two, Designers",
+        "mentee": false,
+        "mentor": "",
+        "team":"designers,team_two"
+    },
+    {
+        "id": 25,
+        "name": "Malvine Ngwese",
+        "position": "Learner , security beginner",
+        "role": "Developers,team_two, Force team,Learner",
+        "mentee": true,
+        "mentor": "Munde Stephan",
+        "team":"team_two,learners"
+    },
+    {
+        "id": 26,
+        "name": "Parkson Tano",
+        "position": "Learner , security beginner",
+        "role": "Developers,team_one,",
+        "mentee": false,
+        "mentor": "",
+        "team":"team_one"
+    }
+]
